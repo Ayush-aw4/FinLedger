@@ -131,15 +131,35 @@ npm install
 Create a `.env` file in the root directory.
 
 ```env
+# ==========================================
+# Server Configuration
+# ==========================================
+
 PORT=3000
 
-MONGO_URI=your_mongodb_connection_string
+# ==========================================
+# Database
+# ==========================================
 
-JWT_SECRET=your_secret_key
+MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/<database_name>
 
-EMAIL=your_email@gmail.com
+# ==========================================
+# Authentication
+# ==========================================
 
-PASSWORD=your_app_password
+JWT_SECRET=your_super_secret_jwt_key
+
+# ==========================================
+# Google OAuth / Nodemailer
+# ==========================================
+
+CLIENT_ID=your_google_oauth_client_id
+
+CLIENT_SECRET=your_google_oauth_client_secret
+
+REFRESH_TOKEN=your_google_oauth_refresh_token
+
+EMAIL_USER=your_email@gmail.com
 ```
 
 ---
