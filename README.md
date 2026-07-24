@@ -11,7 +11,6 @@ A secure banking ledger backend built with <b>Node.js</b>, <b>Express.js</b>, an
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-red?style=for-the-badge)
 ![bcrypt](https://img.shields.io/badge/Bcrypt-Security-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 </p>
 
