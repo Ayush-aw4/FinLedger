@@ -8,7 +8,9 @@ app.use(cookieParser())
 app.use(express.json());
 
 const accountRouter = require("./routes/account.routes.js")
-
+app.get("/",(req,res)=>{
+    res.send("Ledger Service is running")
+})
 
 app.use("/api/auth", authRouter)
 app.use("/api/account", accountRouter)
