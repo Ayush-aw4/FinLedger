@@ -427,48 +427,6 @@ Example Flow
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create your feature branch
-
-```bash
-git checkout -b feature/new-feature
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push to the branch
-
-```bash
-git push origin feature/new-feature
-```
-
-5. Open a Pull Request
-
----
-
-# 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-# 👨‍💻 Author
-
-**Ayush Awchar**
-
-- GitHub: https://github.com/your-github-username
-- LinkedIn: https://linkedin.com/in/your-linkedin
-
----
-
 <div align="center">
 
 ### ⭐ If you found this project useful, consider giving it a star!
