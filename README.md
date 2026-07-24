@@ -109,7 +109,7 @@ FinLedger/
 ## Clone Repository
 
 ```bash
-git clone [https://github.com/your-username/FinLedger.git](https://github.com/Ayush-aw4/FinLedger.git)
+git clone https://github.com/Ayush-aw4/FinLedger.git
 ```
 
 ```bash
